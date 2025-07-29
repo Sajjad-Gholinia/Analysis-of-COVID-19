@@ -89,7 +89,7 @@ tamrin2(random_file("/content/Covid19"))
 ```
 **Output:**
 
-
+![chart1](chart/chart1.jpg)
 
 ---
 
@@ -119,8 +119,7 @@ tamrin3(random_file("/content/Covid19"))
 ```
 
 **Output:**
-
-
+![chart2](chart/chart2.jpg)
 
 ---
 
@@ -146,7 +145,7 @@ def tamrin4(f):
 tamrin4(random_file("/content/Covid19"))
 ```
 **Output:**
-
+![chart3](chart/chart3.jpg)
 
 ---
 
@@ -181,3 +180,4 @@ def tamrin5(f):
 tamrin5(random_file("/content/Covid19"))
 ```
 **Output:**
+![chart4](chart/chart4.jpg)
